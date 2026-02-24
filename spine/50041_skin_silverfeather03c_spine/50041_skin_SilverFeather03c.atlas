@@ -1,0 +1,20 @@
+
+50041_skin_SilverFeather03c.png
+size: 812,548
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guandeng_cloth1
+  rotate: false
+  xy: 2, 2
+  size: 438, 544
+  orig: 441, 544
+  offset: 3, 0
+  index: -1
+guandeng_cloth2
+  rotate: false
+  xy: 442, 2
+  size: 365, 544
+  orig: 367, 544
+  offset: 0, 0
+  index: -1

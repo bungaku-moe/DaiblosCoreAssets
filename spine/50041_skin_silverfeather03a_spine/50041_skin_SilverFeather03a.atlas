@@ -1,0 +1,1056 @@
+
+50041_skin_SilverFeather03a.png
+size: 4096,3348
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_2
+  rotate: false
+  xy: 2, 2311
+  size: 901, 1035
+  orig: 901, 1035
+  offset: 0, 0
+  index: -1
+guandeng_Chest_1
+  rotate: false
+  xy: 2832, 1151
+  size: 384, 586
+  orig: 385, 587
+  offset: 1, 1
+  index: -1
+guandeng_Chest_2
+  rotate: false
+  xy: 2, 1136
+  size: 391, 620
+  orig: 397, 620
+  offset: 0, 0
+  index: -1
+guandeng_Chest_oil_1
+  rotate: true
+  xy: 1938, 750
+  size: 190, 392
+  orig: 190, 393
+  offset: 0, 0
+  index: -1
+guandeng_Chest_oil_2
+  rotate: true
+  xy: 558, 3
+  size: 324, 304
+  orig: 324, 305
+  offset: 0, 1
+  index: -1
+guandeng_Chest_oil_3
+  rotate: false
+  xy: 3015, 1024
+  size: 181, 179
+  orig: 181, 181
+  offset: 0, 1
+  index: -1
+guandeng_Chest_oil_4
+  rotate: false
+  xy: 3153, 988
+  size: 193, 150
+  orig: 205, 177
+  offset: 0, 1
+  index: -1
+guandeng_Chest_oil_5
+  rotate: true
+  xy: 3604, 761
+  size: 168, 330
+  orig: 168, 330
+  offset: 0, 0
+  index: -1
+guandeng_Chest_oil_6
+  rotate: false
+  xy: 2022, 2212
+  size: 123, 114
+  orig: 209, 149
+  offset: 44, 35
+  index: -1
+guandeng_Chest_oil_7
+  rotate: false
+  xy: 1654, 2345
+  size: 98, 93
+  orig: 154, 154
+  offset: 32, 34
+  index: -1
+guandeng_Chest_oil_8
+  rotate: false
+  xy: 3970, 2556
+  size: 73, 116
+  orig: 165, 210
+  offset: 44, 51
+  index: -1
+guandeng_D_quilt_1
+  rotate: 270
+  xy: 835, 1006
+  size: 841, 832
+  orig: 841, 832
+  offset: 0, 0
+  index: -1
+guandeng_D_quilt_3
+  rotate: true
+  xy: 2866, 370
+  size: 170, 393
+  orig: 173, 393
+  offset: 0, 0
+  index: -1
+guandeng_D_quilt_4
+  rotate: 180
+  xy: 1088, 1189
+  size: 945, 863
+  orig: 945, 869
+  offset: 0, 0
+  index: -1
+guandeng_D_quilt_6
+  rotate: true
+  xy: 1840, 866
+  size: 328, 683
+  orig: 329, 707
+  offset: 1, 24
+  index: -1
+guandeng_Eyebrow_L
+  rotate: false
+  xy: 2798, 2506
+  size: 128, 27
+  orig: 130, 27
+  offset: 1, 0
+  index: -1
+guandeng_Eyebrow_R
+  rotate: false
+  xy: 103, 2269
+  size: 113, 41
+  orig: 114, 42
+  offset: 1, 1
+  index: -1
+guandeng_Mouth_1
+  rotate: false
+  xy: 2491, 3308
+  size: 85, 38
+  orig: 86, 39
+  offset: 1, 1
+  index: -1
+guandeng_Mouth_2
+  rotate: false
+  xy: 3405, 2213
+  size: 97, 94
+  orig: 99, 94
+  offset: 1, 0
+  index: -1
+guandeng_Mouth_3
+  rotate: false
+  xy: 2568, 2885
+  size: 87, 91
+  orig: 87, 91
+  offset: 0, 0
+  index: -1
+guandeng_Tail_1
+  rotate: 270
+  xy: 1603, 25
+  size: 329, 601
+  orig: 346, 626
+  offset: 0, 25
+  index: -1
+guandeng_Tail_2
+  rotate: 180
+  xy: 663, 412
+  size: 404, 364
+  orig: 444, 375
+  offset: 0, 6
+  index: -1
+guandeng_Tail_3
+  rotate: 180
+  xy: 2749, 300
+  size: 875, 439
+  orig: 875, 439
+  offset: 0, 0
+  index: -1
+guandeng_Tail_4
+  rotate: false
+  xy: 2957, 661
+  size: 1040, 474
+  orig: 1040, 474
+  offset: 0, 0
+  index: -1
+guandeng_arm_L
+  rotate: true
+  xy: 297, 735
+  size: 202, 687
+  orig: 203, 688
+  offset: 0, 1
+  index: -1
+guandeng_arm_R
+  rotate: true
+  xy: 1298, 837
+  size: 168, 643
+  orig: 168, 644
+  offset: 0, 0
+  index: -1
+guandeng_bg_fireplace
+  rotate: false
+  xy: 4050, 2989
+  size: 45, 223
+  orig: 45, 239
+  offset: 0, 16
+  index: -1
+guandeng_bg_plant
+  rotate: true
+  xy: 2734, 98
+  size: 220, 249
+  orig: 221, 251
+  offset: 1, 0
+  index: -1
+guandeng_body
+  rotate: 180
+  xy: 2057, 2405
+  size: 698, 941
+  orig: 698, 942
+  offset: 0, 1
+  index: -1
+guandeng_body_oil_1
+  rotate: false
+  xy: 2, 1122
+  size: 149, 284
+  orig: 149, 284
+  offset: 0, 0
+  index: -1
+guandeng_body_oil_3
+  rotate: false
+  xy: 2065, 72
+  size: 386, 241
+  orig: 386, 241
+  offset: 0, 0
+  index: -1
+guandeng_body_oil_4
+  rotate: false
+  xy: 1733, 272
+  size: 405, 395
+  orig: 405, 395
+  offset: 0, 0
+  index: -1
+guandeng_body_oil_5
+  rotate: false
+  xy: 3969, 3265
+  size: 41, 81
+  orig: 41, 81
+  offset: 0, 0
+  index: -1
+guandeng_body_rope_1
+  rotate: false
+  xy: 1008, 893
+  size: 280, 221
+  orig: 281, 221
+  offset: 0, 0
+  index: -1
+guandeng_body_rope_2
+  rotate: false
+  xy: 2801, 2467
+  size: 355, 224
+  orig: 355, 225
+  offset: 0, 1
+  index: -1
+guandeng_body_rope_3
+  rotate: false
+  xy: 82, 54
+  size: 491, 176
+  orig: 491, 176
+  offset: 0, 0
+  index: -1
+guandeng_body_rope_4
+  rotate: false
+  xy: 3399, 1567
+  size: 79, 209
+  orig: 80, 210
+  offset: 0, 1
+  index: -1
+guandeng_buckle
+  rotate: false
+  xy: 3291, 2241
+  size: 79, 80
+  orig: 146, 163
+  offset: 33, 43
+  index: -1
+guandeng_calf_L
+  rotate: 180
+  xy: 949, 520
+  size: 476, 352
+  orig: 480, 353
+  offset: 1, 0
+  index: -1
+guandeng_calf_R
+  rotate: 180
+  xy: 3657, 373
+  size: 438, 324
+  orig: 441, 330
+  offset: 0, 3
+  index: -1
+guandeng_clothes_1
+  rotate: 180
+  xy: 3182, 1139
+  size: 646, 416
+  orig: 648, 424
+  offset: 2, 1
+  index: -1
+guandeng_clothes_2
+  rotate: false
+  xy: 1191, 1924
+  size: 169, 92
+  orig: 176, 93
+  offset: 1, 1
+  index: -1
+guandeng_clothes_5
+  rotate: false
+  xy: 1062, 1389
+  size: 419, 36
+  orig: 424, 36
+  offset: 5, 0
+  index: -1
+guandeng_collar_1
+  rotate: false
+  xy: 3568, 3240
+  size: 192, 105
+  orig: 193, 105
+  offset: 1, 0
+  index: -1
+guandeng_collar_2
+  rotate: false
+  xy: 3977, 2630
+  size: 83, 258
+  orig: 159, 333
+  offset: 36, 70
+  index: -1
+guandeng_ear
+  rotate: false
+  xy: 2068, 2841
+  size: 55, 122
+  orig: 55, 125
+  offset: 0, 3
+  index: -1
+guandeng_eye_L_1
+  rotate: false
+  xy: 745, 2097
+  size: 144, 71
+  orig: 144, 71
+  offset: 0, 0
+  index: -1
+guandeng_eye_L_2
+  rotate: false
+  xy: 803, 2240
+  size: 120, 71
+  orig: 120, 74
+  offset: 0, 3
+  index: -1
+guandeng_eye_L_3
+  rotate: false
+  xy: 904, 2261
+  size: 118, 81
+  orig: 121, 81
+  offset: 0, 0
+  index: -1
+guandeng_eye_L_5
+  rotate: false
+  xy: 1449, 2372
+  size: 72, 65
+  orig: 72, 65
+  offset: 0, 0
+  index: -1
+guandeng_eye_L_6
+  rotate: false
+  xy: 2633, 2412
+  size: 91, 61
+  orig: 91, 61
+  offset: 0, 0
+  index: -1
+guandeng_eye_R_1
+  rotate: false
+  xy: 2753, 2220
+  size: 160, 46
+  orig: 160, 46
+  offset: 0, 0
+  index: -1
+guandeng_eye_R_2
+  rotate: false
+  xy: 1015, 2262
+  size: 124, 48
+  orig: 125, 49
+  offset: 0, 0
+  index: -1
+guandeng_eye_R_3
+  rotate: false
+  xy: 2219, 2352
+  size: 125, 67
+  orig: 144, 81
+  offset: 8, 0
+  index: -1
+guandeng_eye_R_5
+  rotate: false
+  xy: 3358, 3276
+  size: 82, 70
+  orig: 105, 71
+  offset: 12, 0
+  index: -1
+guandeng_eye_R_6
+  rotate: false
+  xy: 3012, 2262
+  size: 92, 51
+  orig: 92, 51
+  offset: 0, 0
+  index: -1
+guandeng_face
+  rotate: false
+  xy: 442, 1113
+  size: 393, 471
+  orig: 393, 475
+  offset: 0, 0
+  index: -1
+guandeng_fg_Bottle_1
+  rotate: true
+  xy: 3685, 72
+  size: 221, 409
+  orig: 286, 445
+  offset: 28, 36
+  index: -1
+guandeng_fg_Decoration_1
+  rotate: 180
+  xy: 3003, 66
+  size: 533, 315
+  orig: 533, 315
+  offset: 0, 0
+  index: -1
+guandeng_fg_Decoration_2
+  rotate: false
+  xy: 2552, 804
+  size: 417, 412
+  orig: 467, 412
+  offset: 0, 0
+  index: -1
+guandeng_fg_Decoration_3
+  rotate: true
+  xy: 1801, 1277
+  size: 348, 305
+  orig: 349, 305
+  offset: 0, 0
+  index: -1
+guandeng_fg_Decoration_4
+  rotate: true
+  xy: 2641, 1724
+  size: 607, 1054
+  orig: 607, 1054
+  offset: 0, 0
+  index: -1
+guandeng_fg_Decoration_5
+  rotate: false
+  xy: 3343, 857
+  size: 415, 413
+  orig: 417, 426
+  offset: 2, 0
+  index: -1
+guandeng_fg_Decoration_6
+  rotate: 270
+  xy: 1411, 373
+  size: 324, 332
+  orig: 324, 419
+  offset: 0, 0
+  index: -1
+guandeng_fg_Decoration_8
+  rotate: 270
+  xy: 469, 1551
+  size: 529, 798
+  orig: 529, 798
+  offset: 0, 0
+  index: -1
+guandeng_fg_Mirror_1
+  rotate: false
+  xy: 904, 2438
+  size: 898, 908
+  orig: 924, 949
+  offset: 26, 0
+  index: -1
+guandeng_fg_Smoke_2
+  rotate: false
+  xy: 3406, 102
+  size: 330, 215
+  orig: 377, 221
+  offset: 16, 0
+  index: -1
+guandeng_finger_L
+  rotate: false
+  xy: 1182, 1168
+  size: 119, 136
+  orig: 120, 139
+  offset: 0, 3
+  index: -1
+guandeng_finger_R
+  rotate: false
+  xy: 2729, 1668
+  size: 119, 160
+  orig: 120, 162
+  offset: 1, 2
+  index: -1
+guandeng_flush_L
+  rotate: false
+  xy: 2469, 2093
+  size: 171, 134
+  orig: 171, 134
+  offset: 0, 0
+  index: -1
+guandeng_flush_R
+  rotate: false
+  xy: 696, 2221
+  size: 132, 89
+  orig: 132, 89
+  offset: 0, 0
+  index: -1
+guandeng_foot_L
+  rotate: 180
+  xy: 358, 293
+  size: 321, 262
+  orig: 323, 265
+  offset: 2, 2
+  index: -1
+guandeng_foot_R
+  rotate: 180
+  xy: 2080, 254
+  size: 320, 258
+  orig: 328, 260
+  offset: 0, 2
+  index: -1
+guandeng_forearm_L
+  rotate: true
+  xy: 874, 337
+  size: 214, 441
+  orig: 214, 445
+  offset: 0, 0
+  index: -1
+guandeng_forearm_R
+  rotate: true
+  xy: 2, 349
+  size: 218, 443
+  orig: 225, 451
+  offset: 7, 0
+  index: -1
+guandeng_hair_B_1
+  rotate: 270
+  xy: 851, 625
+  size: 487, 1261
+  orig: 487, 1261
+  offset: 0, 0
+  index: -1
+guandeng_hair_B_2
+  rotate: true
+  xy: 1073, 992
+  size: 357, 1091
+  orig: 357, 1091
+  offset: 0, 0
+  index: -1
+guandeng_hair_B_3
+  rotate: 270
+  xy: 3473, 1437
+  size: 512, 611
+  orig: 512, 615
+  offset: 0, 4
+  index: -1
+guandeng_hair_F_1
+  rotate: true
+  xy: 59, 98
+  size: 228, 433
+  orig: 233, 433
+  offset: 0, 0
+  index: -1
+guandeng_hair_F_2
+  rotate: false
+  xy: 2712, 1256
+  size: 130, 199
+  orig: 139, 222
+  offset: 9, 7
+  index: -1
+guandeng_hair_F_3
+  rotate: true
+  xy: 2245, 1481
+  size: 192, 390
+  orig: 193, 391
+  offset: 0, 1
+  index: -1
+guandeng_hair_F_4
+  rotate: false
+  xy: 3488, 2158
+  size: 156, 396
+  orig: 156, 396
+  offset: 0, 0
+  index: -1
+guandeng_hair_F_5
+  rotate: false
+  xy: 3980, 2846
+  size: 112, 499
+  orig: 112, 499
+  offset: 0, 0
+  index: -1
+guandeng_hair_L
+  rotate: false
+  xy: 4007, 2075
+  size: 87, 326
+  orig: 90, 326
+  offset: 0, 0
+  index: -1
+guandeng_hair_R_2
+  rotate: 270
+  xy: 3537, 266
+  size: 170, 550
+  orig: 170, 550
+  offset: 0, 0
+  index: -1
+guandeng_hair_accessories_1
+  rotate: false
+  xy: 3675, 1967
+  size: 138, 139
+  orig: 139, 139
+  offset: 1, 0
+  index: -1
+guandeng_hair_accessories_2
+  rotate: false
+  xy: 2, 2171
+  size: 135, 139
+  orig: 136, 139
+  offset: 0, 0
+  index: -1
+guandeng_hair_accessories_3
+  rotate: 270
+  xy: 2, 547
+  size: 323, 601
+  orig: 323, 604
+  offset: 0, 3
+  index: -1
+guandeng_hair_accessories_4
+  rotate: 270
+  xy: 2210, 638
+  size: 272, 650
+  orig: 275, 650
+  offset: 1, 0
+  index: -1
+guandeng_hair_accessories_5
+  rotate: false
+  xy: 1049, 1172
+  size: 131, 158
+  orig: 136, 162
+  offset: 4, 0
+  index: -1
+guandeng_hair_accessories_6
+  rotate: false
+  xy: 1799, 3116
+  size: 145, 230
+  orig: 153, 230
+  offset: 0, 0
+  index: -1
+guandeng_hair_light_1
+  rotate: false
+  xy: 1325, 210
+  size: 295, 300
+  orig: 298, 344
+  offset: 0, 44
+  index: -1
+guandeng_hair_light_2
+  rotate: 270
+  xy: 2409, 166
+  size: 194, 446
+  orig: 237, 503
+  offset: 0, 50
+  index: -1
+guandeng_hand_L
+  rotate: false
+  xy: 2024, 2328
+  size: 180, 177
+  orig: 180, 177
+  offset: 0, 0
+  index: -1
+guandeng_hand_R
+  rotate: false
+  xy: 1161, 1423
+  size: 179, 181
+  orig: 179, 181
+  offset: 0, 0
+  index: -1
+guandeng_hand_oil_1
+  rotate: false
+  xy: 2695, 2433
+  size: 102, 210
+  orig: 110, 230
+  offset: 0, 0
+  index: -1
+guandeng_hand_oil_2
+  rotate: false
+  xy: 3989, 792
+  size: 104, 239
+  orig: 104, 239
+  offset: 0, 0
+  index: -1
+guandeng_highlight_L_1
+  rotate: false
+  xy: 1801, 2899
+  size: 69, 32
+  orig: 69, 32
+  offset: 0, 0
+  index: -1
+guandeng_highlight_R_2
+  rotate: false
+  xy: 2874, 3324
+  size: 64, 22
+  orig: 64, 22
+  offset: 0, 0
+  index: -1
+guandeng_leg_Occlusion_1
+  rotate: false
+  xy: 3346, 577
+  size: 217, 299
+  orig: 227, 299
+  offset: 10, 0
+  index: -1
+guandeng_leg_Occlusion_2
+  rotate: false
+  xy: 3967, 2350
+  size: 127, 235
+  orig: 130, 235
+  offset: 0, 0
+  index: -1
+guandeng_mouth_1aBU
+  rotate: false
+  xy: 2090, 3279
+  size: 22, 35
+  orig: 38, 39
+  offset: 12, 0
+  index: -1
+guandeng_mouth_1bBU
+  rotate: false
+  xy: 3540, 2542
+  size: 84, 39
+  orig: 93, 81
+  offset: 0, 8
+  index: -1
+guandeng_mouth_2BU
+  rotate: false
+  xy: 2113, 3308
+  size: 30, 38
+  orig: 31, 39
+  offset: 0, 1
+  index: -1
+guandeng_mouth_3BU
+  rotate: false
+  xy: 1863, 3090
+  size: 74, 43
+  orig: 74, 43
+  offset: 0, 0
+  index: -1
+guandeng_mouth_4BU
+  rotate: false
+  xy: 2592, 2842
+  size: 81, 44
+  orig: 85, 55
+  offset: 3, 11
+  index: -1
+guandeng_neck
+  rotate: true
+  xy: 646, 185
+  size: 209, 264
+  orig: 209, 267
+  offset: 0, 3
+  index: -1
+guandeng_neck_F
+  rotate: false
+  xy: 3586, 2558
+  size: 84, 43
+  orig: 84, 43
+  offset: 0, 0
+  index: -1
+guandeng_phone
+  rotate: false
+  xy: 3896, 1027
+  size: 198, 421
+  orig: 200, 422
+  offset: 1, 1
+  index: -1
+guandeng_quilt_B_1
+  rotate: false
+  xy: 2577, 2518
+  size: 698, 828
+  orig: 1226, 1046
+  offset: 201, 218
+  index: -1
+guandeng_quilt_B_2
+  rotate: true
+  xy: 3477, 1938
+  size: 1408, 507
+  orig: 1408, 508
+  offset: 0, 1
+  index: -1
+guandeng_quilt_B_3
+  rotate: false
+  xy: 2217, 390
+  size: 520, 249
+  orig: 520, 249
+  offset: 0, 0
+  index: -1
+guandeng_quilt_B_4
+  rotate: false
+  xy: 904, 2274
+  size: 423, 165
+  orig: 423, 165
+  offset: 0, 0
+  index: -1
+guandeng_quilt_B_5
+  rotate: false
+  xy: 2, 913
+  size: 848, 231
+  orig: 967, 251
+  offset: 59, 20
+  index: -1
+guandeng_quilt_F_1
+  rotate: false
+  xy: 2031, 1111
+  size: 859, 687
+  orig: 859, 687
+  offset: 0, 0
+  index: -1
+guandeng_quilt_F_2
+  rotate: true
+  xy: 2, 137
+  size: 270, 476
+  orig: 270, 476
+  offset: 0, 0
+  index: -1
+guandeng_quilt_F_3
+  rotate: true
+  xy: 897, 175
+  size: 237, 482
+  orig: 237, 485
+  offset: 0, 3
+  index: -1
+guandeng_quilt_L_3
+  rotate: 180
+  xy: 753, 1828
+  size: 1355, 1518
+  orig: 1385, 1518
+  offset: 25, 0
+  index: -1
+guandeng_quilt_L_5
+  rotate: 270
+  xy: 2864, 476
+  size: 359, 670
+  orig: 379, 671
+  offset: 20, 0
+  index: -1
+guandeng_quilt_R_2
+  rotate: true
+  xy: 2152, 2195
+  size: 1150, 1504
+  orig: 1198, 1504
+  offset: 0, 0
+  index: -1
+guandeng_quilt_R_3
+  rotate: true
+  xy: 1374, 1467
+  size: 329, 405
+  orig: 333, 405
+  offset: 0, 0
+  index: -1
+guandeng_sleeve_L
+  rotate: false
+  xy: 1329, 2289
+  size: 163, 150
+  orig: 164, 151
+  offset: 1, 0
+  index: -1
+guandeng_sleeve_R
+  rotate: false
+  xy: 1493, 2289
+  size: 163, 149
+  orig: 164, 153
+  offset: 1, 0
+  index: -1
+guandeng_special_effects_1
+  rotate: false
+  xy: 2585, 2985
+  size: 48, 80
+  orig: 49, 80
+  offset: 1, 0
+  index: -1
+guandeng_special_effects_2
+  rotate: false
+  xy: 3274, 3292
+  size: 27, 54
+  orig: 27, 55
+  offset: 0, 1
+  index: -1
+guandeng_thigh_L
+  rotate: true
+  xy: 2, 1738
+  size: 572, 743
+  orig: 573, 746
+  offset: 0, 0
+  index: -1
+guandeng_thigh_R
+  rotate: true
+  xy: 2029, 1667
+  size: 545, 744
+  orig: 552, 746
+  offset: 0, 0
+  index: -1
+guandeng_veil_1
+  rotate: false
+  xy: 3940, 1783
+  size: 154, 220
+  orig: 157, 221
+  offset: 0, 0
+  index: -1
+guandeng_veil_2
+  rotate: false
+  xy: 1806, 2923
+  size: 116, 192
+  orig: 116, 193
+  offset: 0, 0
+  index: -1
+guandeng_zippers
+  rotate: false
+  xy: 1974, 3304
+  size: 11, 42
+  orig: 11, 42
+  offset: 0, 0
+  index: -1
+guandengoil1
+  rotate: false
+  xy: 3074, 735
+  size: 279, 214
+  orig: 324, 323
+  offset: 0, 0
+  index: -1
+guandengoil2
+  rotate: false
+  xy: 1261, 43
+  size: 227, 199
+  orig: 305, 239
+  offset: 78, 0
+  index: -1
+guandengoil3
+  rotate: false
+  xy: 370, 1479
+  size: 142, 195
+  orig: 142, 195
+  offset: 0, 0
+  index: -1
+guandengoil4
+  rotate: false
+  xy: 3222, 1498
+  size: 207, 242
+  orig: 251, 288
+  offset: 14, 19
+  index: -1
+shadow_4
+  rotate: false
+  xy: 2413, 296
+  size: 363, 210
+  orig: 395, 210
+  offset: 0, 0
+  index: -1
+tip_clolor
+  rotate: false
+  xy: 790, 1470
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1
+tips_1
+  rotate: false
+  xy: 4045, 3286
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+tips_2
+  rotate: false
+  xy: 1799, 3316
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+tips_3
+  rotate: false
+  xy: 3839, 3316
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+tips_4
+  rotate: false
+  xy: 3628, 3316
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+tips_5
+  rotate: false
+  xy: 3654, 3316
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+tips_6
+  rotate: false
+  xy: 3862, 3316
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+tips_7
+  rotate: false
+  xy: 3995, 3316
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+tips_8
+  rotate: false
+  xy: 4066, 3316
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+tips_9
+  rotate: false
+  xy: 3839, 3285
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+tips_in_10
+  rotate: false
+  xy: 2080, 3315
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+tips_neiquan_2
+  rotate: false
+  xy: 3761, 3271
+  size: 76, 74
+  orig: 76, 74
+  offset: 0, 0
+  index: -1
+tips_tri_10
+  rotate: false
+  xy: 2144, 3330
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+tips_waiquan
+  rotate: false
+  xy: 3447, 3226
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+tips_zhonxing
+  rotate: false
+  xy: 1924, 3298
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
