@@ -1,0 +1,34 @@
+
+10220_skin_Garnet03a.png
+size: 2081,393
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+curtain_1
+  rotate: true
+  xy: 1102, 41
+  size: 177, 972
+  orig: 177, 972
+  offset: 0, 0
+  index: -1
+curtain_2
+  rotate: true
+  xy: 1102, 220
+  size: 171, 977
+  orig: 171, 977
+  offset: 0, 0
+  index: -1
+door_L
+  rotate: true
+  xy: 552, 14
+  size: 377, 548
+  orig: 377, 548
+  offset: 0, 0
+  index: -1
+door_R
+  rotate: true
+  xy: 2, 2
+  size: 389, 548
+  orig: 389, 548
+  offset: 0, 0
+  index: -1
