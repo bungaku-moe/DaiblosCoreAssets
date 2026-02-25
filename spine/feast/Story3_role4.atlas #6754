@@ -1,0 +1,90 @@
+
+Story3_role4.png
+size: 1944,1552
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bubble05
+  rotate: false
+  xy: 1402, 19
+  size: 198, 138
+  orig: 198, 138
+  offset: 0, 0
+  index: -1
+bubble07
+  rotate: false
+  xy: 1198, 3
+  size: 202, 171
+  orig: 202, 171
+  offset: 0, 0
+  index: -1
+wait_Arpeggio03_ball
+  rotate: false
+  xy: 2, 97
+  size: 91, 252
+  orig: 91, 252
+  offset: 0, 0
+  index: -1
+wait_Arpeggio03_below
+  rotate: true
+  xy: 382, 324
+  size: 498, 830
+  orig: 498, 830
+  offset: 0, 0
+  index: -1
+wait_Arpeggio03_body
+  rotate: 270
+  xy: 132, 65
+  size: 284, 590
+  orig: 284, 971
+  offset: 0, 0
+  index: -1
+wait_Arpeggio03_eyebrows
+  rotate: false
+  xy: 723, 50
+  size: 473, 272
+  orig: 473, 272
+  offset: 0, 0
+  index: -1
+wait_Arpeggio03_head2
+  rotate: 270
+  xy: 1214, 159
+  size: 560, 579
+  orig: 560, 579
+  offset: 0, 0
+  index: -1
+wait_Arpeggio03_hend
+  rotate: false
+  xy: 1679, 88
+  size: 248, 154
+  orig: 248, 154
+  offset: 0, 0
+  index: -1
+wait_Arpeggio03_shadowBelow
+  rotate: false
+  xy: 1431, 694
+  size: 511, 854
+  orig: 511, 854
+  offset: 0, 0
+  index: -1
+wait_Arpeggio03_shadowTop
+  rotate: false
+  xy: 2, 819
+  size: 715, 729
+  orig: 715, 729
+  offset: 0, 0
+  index: -1
+wait_Arpeggio03_sideburns
+  rotate: true
+  xy: 2, 333
+  size: 484, 321
+  orig: 484, 321
+  offset: 0, 0
+  index: -1
+wait_Arpeggio03_top
+  rotate: false
+  xy: 719, 824
+  size: 710, 724
+  orig: 710, 724
+  offset: 0, 0
+  index: -1

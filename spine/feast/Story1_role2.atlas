@@ -1,0 +1,125 @@
+
+Story1_role2.png
+size: 3996,1280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bubble04
+  rotate: false
+  xy: 2, 216
+  size: 202, 171
+  orig: 202, 171
+  offset: 0, 0
+  index: -1
+bubble06
+  rotate: false
+  xy: 2, 43
+  size: 179, 171
+  orig: 179, 171
+  offset: 0, 0
+  index: -1
+wait_Burtgang01_Top
+  rotate: 180
+  xy: 2449, 444
+  size: 758, 831
+  orig: 758, 831
+  offset: 0, 0
+  index: -1
+wait_Burtgang01_armor
+  rotate: false
+  xy: 786, 1078
+  size: 87, 64
+  orig: 87, 64
+  offset: 0, 0
+  index: -1
+wait_Burtgang01_below
+  rotate: 180
+  xy: 842, 317
+  size: 871, 958
+  orig: 871, 958
+  offset: 0, 0
+  index: -1
+wait_Burtgang01_body
+  rotate: true
+  xy: 1715, 95
+  size: 349, 589
+  orig: 349, 908
+  offset: 0, 0
+  index: -1
+wait_Burtgang01_eyebrows02
+  rotate: false
+  xy: 917, 1223
+  size: 154, 52
+  orig: 154, 52
+  offset: 0, 0
+  index: -1
+wait_Burtgang01_facial02
+  rotate: false
+  xy: 721, 1144
+  size: 194, 131
+  orig: 194, 131
+  offset: 0, 0
+  index: -1
+wait_Burtgang01_hair
+  rotate: 270
+  xy: 3069, 91
+  size: 469, 446
+  orig: 469, 528
+  offset: 0, 82
+  index: -1
+wait_Burtgang01_hand03
+  rotate: false
+  xy: 2, 648
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+wait_Burtgang01_head01
+  rotate: false
+  xy: 715, 103
+  size: 392, 374
+  orig: 392, 374
+  offset: 0, 0
+  index: -1
+wait_Burtgang01_headwear
+  rotate: true
+  xy: 3492, 316
+  size: 502, 500
+  orig: 502, 500
+  offset: 0, 0
+  index: -1
+wait_Burtgang01_left_hand02
+  rotate: false
+  xy: 183, 43
+  size: 140, 131
+  orig: 140, 131
+  offset: 0, 0
+  index: -1
+wait_Burtgang01_shadowBelow
+  rotate: false
+  xy: 2, 319
+  size: 869, 956
+  orig: 869, 956
+  offset: 0, 0
+  index: -1
+wait_Burtgang01_shadowTop
+  rotate: false
+  xy: 1691, 446
+  size: 756, 829
+  orig: 756, 829
+  offset: 0, 0
+  index: -1
+wait_Burtgang01_sideburns
+  rotate: false
+  xy: 3167, 621
+  size: 553, 654
+  orig: 553, 654
+  offset: 0, 0
+  index: -1
+wait_Burtgang01_weapon
+  rotate: false
+  xy: 2368, 3
+  size: 715, 520
+  orig: 715, 520
+  offset: 0, 0
+  index: -1

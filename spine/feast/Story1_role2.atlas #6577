@@ -1,0 +1,111 @@
+
+Story1_role2.png
+size: 3952,1292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bubble02
+  rotate: false
+  xy: 625, 1118
+  size: 179, 171
+  orig: 179, 171
+  offset: 0, 0
+  index: -1
+wait_Burtgang01_Top
+  rotate: false
+  xy: 1636, 458
+  size: 758, 831
+  orig: 758, 831
+  offset: 0, 0
+  index: -1
+wait_Burtgang01_armor
+  rotate: false
+  xy: 703, 1052
+  size: 87, 64
+  orig: 87, 64
+  offset: 0, 0
+  index: -1
+wait_Burtgang01_below
+  rotate: false
+  xy: 2, 331
+  size: 871, 958
+  orig: 871, 958
+  offset: 0, 0
+  index: -1
+wait_Burtgang01_body
+  rotate: true
+  xy: 1622, 87
+  size: 345, 582
+  orig: 349, 908
+  offset: 0, 0
+  index: -1
+wait_Burtgang01_eyebrows01
+  rotate: false
+  xy: 806, 1243
+  size: 164, 46
+  orig: 164, 46
+  offset: 0, 0
+  index: -1
+wait_Burtgang01_facial02
+  rotate: false
+  xy: 2, 235
+  size: 194, 131
+  orig: 194, 131
+  offset: 0, 0
+  index: -1
+wait_Burtgang01_hair
+  rotate: 180
+  xy: 3003, 65
+  size: 469, 451
+  orig: 469, 528
+  offset: 0, 77
+  index: -1
+wait_Burtgang01_head01
+  rotate: false
+  xy: 703, 83
+  size: 392, 374
+  orig: 392, 374
+  offset: 0, 0
+  index: -1
+wait_Burtgang01_headwear
+  rotate: true
+  xy: 3449, 341
+  size: 502, 500
+  orig: 502, 500
+  offset: 0, 0
+  index: -1
+wait_Burtgang01_left_hand01
+  rotate: false
+  xy: 2, 126
+  size: 114, 107
+  orig: 114, 107
+  offset: 0, 0
+  index: -1
+wait_Burtgang01_shadowBelow
+  rotate: 180
+  xy: 805, 333
+  size: 869, 956
+  orig: 869, 956
+  offset: 0, 0
+  index: -1
+wait_Burtgang01_shadowTop
+  rotate: 180
+  xy: 2396, 460
+  size: 756, 829
+  orig: 756, 829
+  offset: 0, 0
+  index: -1
+wait_Burtgang01_sideburns
+  rotate: false
+  xy: 3098, 635
+  size: 553, 654
+  orig: 553, 654
+  offset: 0, 0
+  index: -1
+wait_Burtgang01_weapon
+  rotate: 180
+  xy: 2337, 3
+  size: 715, 520
+  orig: 715, 520
+  offset: 0, 0
+  index: -1

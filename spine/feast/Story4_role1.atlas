@@ -1,0 +1,83 @@
+
+Story4_role1.png
+size: 3512,976
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bubble04
+  rotate: false
+  xy: 2998, 61
+  size: 202, 171
+  orig: 202, 171
+  offset: 0, 0
+  index: -1
+bubble05
+  rotate: false
+  xy: 1201, 26
+  size: 198, 138
+  orig: 198, 138
+  offset: 0, 0
+  index: -1
+bubble06
+  rotate: false
+  xy: 2283, 32
+  size: 179, 171
+  orig: 179, 171
+  offset: 0, 0
+  index: -1
+wait_Pongo01_below
+  rotate: false
+  xy: 1201, 129
+  size: 634, 700
+  orig: 634, 700
+  offset: 0, 0
+  index: -1
+wait_Pongo01_body
+  rotate: false
+  xy: 2998, 391
+  size: 508, 527
+  orig: 508, 527
+  offset: 0, 0
+  index: -1
+wait_Pongo01_cape
+  rotate: false
+  xy: 1829, 52
+  size: 454, 219
+  orig: 454, 219
+  offset: 0, 0
+  index: -1
+wait_Pongo01_eyebrows
+  rotate: false
+  xy: 2998, 234
+  size: 312, 155
+  orig: 312, 155
+  offset: 0, 0
+  index: -1
+wait_Pongo01_head
+  rotate: 180
+  xy: 2464, 118
+  size: 532, 853
+  orig: 532, 853
+  offset: 0, 0
+  index: -1
+wait_Pongo01_shadowBelow
+  rotate: false
+  xy: 1837, 273
+  size: 632, 698
+  orig: 632, 698
+  offset: 0, 0
+  index: -1
+wait_Pongo01_shadowTop
+  rotate: 180
+  xy: 572, 4
+  size: 627, 967
+  orig: 627, 967
+  offset: 0, 0
+  index: -1
+wait_Pongo01_top
+  rotate: false
+  xy: 2, 2
+  size: 629, 969
+  orig: 629, 969
+  offset: 0, 0
+  index: -1

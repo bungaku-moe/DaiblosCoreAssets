@@ -1,0 +1,125 @@
+
+Storyboard_11_role2.png
+size: 1156,3688
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bubble09
+  rotate: false
+  xy: 935, 3329
+  size: 202, 171
+  orig: 202, 171
+  offset: 0, 0
+  index: -1
+fight_Vortex01_below
+  rotate: false
+  xy: 2, 801
+  size: 730, 1007
+  orig: 730, 1007
+  offset: 0, 0
+  index: -1
+fight_Vortex01_body
+  rotate: 180
+  xy: 686, 668
+  size: 411, 599
+  orig: 411, 599
+  offset: 0, 0
+  index: -1
+fight_Vortex01_box
+  rotate: false
+  xy: 935, 3110
+  size: 215, 217
+  orig: 215, 217
+  offset: 0, 0
+  index: -1
+fight_Vortex01_eyebrows
+  rotate: false
+  xy: 732, 3444
+  size: 183, 56
+  orig: 183, 56
+  offset: 0, 0
+  index: -1
+fight_Vortex01_eyepatch
+  rotate: false
+  xy: 812, 525
+  size: 267, 106
+  orig: 267, 106
+  offset: 0, 0
+  index: -1
+fight_Vortex01_facial01
+  rotate: false
+  xy: 768, 3502
+  size: 165, 137
+  orig: 165, 137
+  offset: 0, 0
+  index: -1
+fight_Vortex01_gun
+  rotate: false
+  xy: 2, 6
+  size: 69, 152
+  orig: 69, 152
+  offset: 0, 0
+  index: -1
+fight_Vortex01_hair
+  rotate: true
+  xy: 677, 1292
+  size: 516, 433
+  orig: 516, 433
+  offset: 0, 0
+  index: -1
+fight_Vortex01_hat
+  rotate: true
+  xy: 815, 1810
+  size: 706, 266
+  orig: 706, 266
+  offset: 0, 0
+  index: -1
+fight_Vortex01_head
+  rotate: true
+  xy: 732, 2680
+  size: 428, 420
+  orig: 428, 420
+  offset: 0, 0
+  index: -1
+fight_Vortex01_hend
+  rotate: false
+  xy: 815, 2518
+  size: 214, 123
+  orig: 214, 123
+  offset: 0, 0
+  index: -1
+fight_Vortex01_shadowBelow
+  rotate: false
+  xy: 2, 2680
+  size: 728, 1005
+  orig: 728, 1005
+  offset: 0, 0
+  index: -1
+fight_Vortex01_shadowTop
+  rotate: 270
+  xy: 2, 4
+  size: 866, 809
+  orig: 866, 809
+  offset: 0, 0
+  index: -1
+fight_Vortex01_sideburns
+  rotate: true
+  xy: 812, 81
+  size: 442, 244
+  orig: 442, 244
+  offset: 0, 0
+  index: -1
+fight_Vortex01_top
+  rotate: true
+  xy: 2, 1810
+  size: 868, 811
+  orig: 868, 811
+  offset: 0, 0
+  index: -1
+fight_Vortex01_waepon
+  rotate: false
+  xy: 732, 3110
+  size: 201, 288
+  orig: 201, 288
+  offset: 0, 0
+  index: -1

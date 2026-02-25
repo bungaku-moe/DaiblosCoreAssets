@@ -1,0 +1,27 @@
+
+Storyboard_13.png
+size: 1912,1404
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wait_mech01
+  rotate: false
+  xy: 2, 2
+  size: 1906, 1400
+  orig: 2000, 1400
+  offset: 47, 0
+  index: -1
+wait_mech02
+  rotate: false
+  xy: 2, 116
+  size: 63, 243
+  orig: 68, 245
+  offset: 2, 1
+  index: -1
+wait_mech03
+  rotate: false
+  xy: 2, 361
+  size: 127, 243
+  orig: 129, 245
+  offset: 1, 1
+  index: -1

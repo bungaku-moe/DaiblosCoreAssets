@@ -1,0 +1,69 @@
+
+Story2_role3.png
+size: 1676,1796
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bubble05
+  rotate: false
+  xy: 2, 759
+  size: 198, 138
+  orig: 198, 138
+  offset: 0, 0
+  index: -1
+bubble06
+  rotate: false
+  xy: 2, 899
+  size: 179, 171
+  orig: 179, 171
+  offset: 0, 0
+  index: -1
+wait_rabbit02_below
+  rotate: false
+  xy: 1170, 259
+  size: 296, 571
+  orig: 296, 571
+  offset: 0, 0
+  index: -1
+wait_rabbit02_body
+  rotate: true
+  xy: 2, 14
+  size: 223, 476
+  orig: 223, 476
+  offset: 0, 0
+  index: -1
+wait_rabbit02_gaze
+  rotate: 270
+  xy: 433, 227
+  size: 694, 735
+  orig: 694, 735
+  offset: 0, 0
+  index: -1
+wait_rabbit02_shadowBelow
+  rotate: true
+  xy: 731, 3
+  size: 294, 569
+  orig: 294, 569
+  offset: 0, 0
+  index: -1
+wait_rabbit02_shadowTop
+  rotate: false
+  xy: 2, 821
+  size: 839, 971
+  orig: 839, 971
+  offset: 0, 0
+  index: -1
+wait_rabbit02_sideburns
+  rotate: false
+  xy: 2, 240
+  size: 440, 443
+  orig: 440, 456
+  offset: 0, 13
+  index: -1
+wait_rabbit02_top
+  rotate: false
+  xy: 841, 832
+  size: 829, 960
+  orig: 829, 960
+  offset: 0, 0
+  index: -1

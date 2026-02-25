@@ -1,0 +1,62 @@
+
+Story4_role2.png
+size: 884,3712
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bubble09
+  rotate: false
+  xy: 655, 894
+  size: 202, 171
+  orig: 202, 171
+  offset: 0, 0
+  index: -1
+wait_Vortex02_below
+  rotate: true
+  xy: 2, 1504
+  size: 469, 764
+  orig: 469, 764
+  offset: 0, 0
+  index: -1
+wait_Vortex02_body
+  rotate: 270
+  xy: 2, 90
+  size: 339, 582
+  orig: 480, 696
+  offset: 0, 0
+  index: -1
+wait_Vortex02_head
+  rotate: false
+  xy: 2, 884
+  size: 726, 618
+  orig: 726, 618
+  offset: 0, 0
+  index: -1
+wait_Vortex02_shadowBelow
+  rotate: true
+  xy: 2, 430
+  size: 467, 762
+  orig: 467, 762
+  offset: 0, 0
+  index: -1
+wait_Vortex02_shadowTop
+  rotate: 180
+  xy: 2, 1975
+  size: 878, 899
+  orig: 878, 899
+  offset: 0, 0
+  index: -1
+wait_Vortex02_sideburns
+  rotate: true
+  xy: 577, 3
+  size: 429, 249
+  orig: 429, 249
+  offset: 0, 0
+  index: -1
+wait_Vortex02_top
+  rotate: false
+  xy: 2, 2806
+  size: 880, 901
+  orig: 880, 901
+  offset: 0, 0
+  index: -1

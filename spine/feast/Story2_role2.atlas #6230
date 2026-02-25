@@ -1,0 +1,90 @@
+
+Story2_role2.png
+size: 2044,2428
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bubble11
+  rotate: false
+  xy: 2, 1339
+  size: 202, 182
+  orig: 202, 182
+  offset: 0, 0
+  index: -1
+fight_rabbit01_ball
+  rotate: false
+  xy: 2, 2384
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+fight_rabbit01_below
+  rotate: false
+  xy: 1647, 1565
+  size: 387, 565
+  orig: 387, 565
+  offset: 0, 0
+  index: -1
+fight_rabbit01_body
+  rotate: true
+  xy: 1575, 2131
+  size: 276, 466
+  orig: 276, 466
+  offset: 0, 0
+  index: -1
+fight_rabbit01_center
+  rotate: 180
+  xy: 2, 969
+  size: 1525, 496
+  orig: 1525, 496
+  offset: 0, 0
+  index: -1
+fight_rabbit01_gun
+  rotate: true
+  xy: 1599, 108
+  size: 1464, 442
+  orig: 1464, 442
+  offset: 0, 0
+  index: -1
+fight_rabbit01_shadowBelow
+  rotate: true
+  xy: 2, 191
+  size: 385, 563
+  orig: 385, 563
+  offset: 0, 0
+  index: -1
+fight_rabbit01_shadowCenter
+  rotate: 180
+  xy: 2, 579
+  size: 1523, 494
+  orig: 1523, 494
+  offset: 0, 0
+  index: -1
+fight_rabbit01_shadowTop
+  rotate: false
+  xy: 2, 1454
+  size: 839, 971
+  orig: 839, 971
+  offset: 0, 0
+  index: -1
+fight_rabbit01_sideburns
+  rotate: false
+  xy: 567, 3
+  size: 440, 456
+  orig: 440, 456
+  offset: 0, 0
+  index: -1
+fight_rabbit01_smile
+  rotate: true
+  xy: 987, 90
+  size: 696, 737
+  orig: 696, 737
+  offset: 0, 0
+  index: -1
+fight_rabbit01_top
+  rotate: false
+  xy: 816, 1466
+  size: 829, 960
+  orig: 829, 960
+  offset: 0, 0
+  index: -1

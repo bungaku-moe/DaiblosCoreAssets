@@ -1,0 +1,69 @@
+
+Story4_role1.png
+size: 3420,972
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bubble06
+  rotate: false
+  xy: 2284, 48
+  size: 179, 171
+  orig: 179, 171
+  offset: 0, 0
+  index: -1
+wait_Pongo01_below
+  rotate: 180
+  xy: 1844, 269
+  size: 634, 700
+  orig: 634, 700
+  offset: 0, 0
+  index: -1
+wait_Pongo01_body
+  rotate: false
+  xy: 2909, 107
+  size: 508, 527
+  orig: 508, 527
+  offset: 0, 0
+  index: -1
+wait_Pongo01_cape
+  rotate: false
+  xy: 1828, 48
+  size: 454, 219
+  orig: 454, 219
+  offset: 0, 0
+  index: -1
+wait_Pongo01_eyebrows
+  rotate: false
+  xy: 3014, 636
+  size: 312, 155
+  orig: 312, 155
+  offset: 0, 0
+  index: -1
+wait_Pongo01_head
+  rotate: false
+  xy: 2480, 116
+  size: 532, 853
+  orig: 532, 853
+  offset: 0, 0
+  index: -1
+wait_Pongo01_shadowBelow
+  rotate: false
+  xy: 1210, 97
+  size: 632, 698
+  orig: 632, 698
+  offset: 0, 0
+  index: -1
+wait_Pongo01_shadowTop
+  rotate: 180
+  xy: 581, 2
+  size: 627, 967
+  orig: 627, 967
+  offset: 0, 0
+  index: -1
+wait_Pongo01_top
+  rotate: false
+  xy: 2, 4
+  size: 629, 966
+  orig: 629, 969
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+Story9_role1.png
+size: 1004,3800
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bubble06
+  rotate: false
+  xy: 808, 1490
+  size: 179, 171
+  orig: 179, 171
+  offset: 0, 0
+  index: -1
+wait_Alps02_
+  rotate: false
+  xy: 2, 53
+  size: 415, 370
+  orig: 415, 370
+  offset: 0, 0
+  index: -1
+wait_Alps02_below
+  rotate: false
+  xy: 2, 425
+  size: 516, 749
+  orig: 516, 749
+  offset: 0, 0
+  index: -1
+wait_Alps02_body
+  rotate: false
+  xy: 406, 4
+  size: 284, 445
+  orig: 427, 454
+  offset: 37, 9
+  index: -1
+wait_Alps02_cape
+  rotate: 180
+  xy: 499, 450
+  size: 339, 374
+  orig: 339, 374
+  offset: 0, 0
+  index: -1
+wait_Alps02_decorate
+  rotate: false
+  xy: 690, 313
+  size: 302, 120
+  orig: 302, 120
+  offset: 0, 0
+  index: -1
+wait_Alps02_decorationBelow
+  rotate: false
+  xy: 725, 2100
+  size: 211, 139
+  orig: 211, 139
+  offset: 0, 0
+  index: -1
+wait_Alps02_decorationTop
+  rotate: false
+  xy: 691, 27
+  size: 305, 284
+  orig: 305, 284
+  offset: 0, 0
+  index: -1
+wait_Alps02_expression01
+  rotate: false
+  xy: 641, 1991
+  size: 225, 107
+  orig: 225, 107
+  offset: 0, 0
+  index: -1
+wait_Alps02_eyebrows
+  rotate: false
+  xy: 511, 743
+  size: 488, 527
+  orig: 488, 527
+  offset: 0, 0
+  index: -1
+wait_Alps02_eyebrows02
+  rotate: false
+  xy: 2, 3771
+  size: 156, 27
+  orig: 156, 27
+  offset: 0, 0
+  index: -1
+wait_Alps02_head
+  rotate: false
+  xy: 661, 1253
+  size: 275, 236
+  orig: 275, 236
+  offset: 0, 0
+  index: -1
+wait_Alps02_hend
+  rotate: false
+  xy: 840, 435
+  size: 141, 113
+  orig: 141, 113
+  offset: 0, 0
+  index: -1
+wait_Alps02_shadowBelow
+  rotate: 180
+  xy: 89, 1176
+  size: 514, 747
+  orig: 514, 747
+  offset: 0, 0
+  index: -1
+wait_Alps02_shadowTop
+  rotate: false
+  xy: 2, 2841
+  size: 649, 957
+  orig: 649, 957
+  offset: 0, 0
+  index: -1
+wait_Alps02_sideburns
+  rotate: false
+  xy: 598, 1502
+  size: 260, 487
+  orig: 260, 487
+  offset: 0, 0
+  index: -1
+wait_Alps02_top
+  rotate: false
+  xy: 2, 1880
+  size: 651, 959
+  orig: 651, 959
+  offset: 0, 0
+  index: -1

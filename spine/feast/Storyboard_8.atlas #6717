@@ -1,0 +1,83 @@
+
+Storyboard_8.png
+size: 4096,928
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bubble04
+  rotate: false
+  xy: 1504, 21
+  size: 202, 171
+  orig: 202, 171
+  offset: 0, 0
+  index: -1
+wait_Hermes01_bgBelow
+  rotate: false
+  xy: 2240, 97
+  size: 689, 826
+  orig: 689, 826
+  offset: 0, 0
+  index: -1
+wait_Hermes01_bgTop
+  rotate: 180
+  xy: 731, 114
+  size: 816, 809
+  orig: 816, 809
+  offset: 0, 0
+  index: -1
+wait_Hermes01_body
+  rotate: true
+  xy: 2931, 79
+  size: 401, 478
+  orig: 525, 777
+  offset: 124, 0
+  index: -1
+wait_Hermes01_equipment
+  rotate: 180
+  xy: 3638, 391
+  size: 349, 432
+  orig: 526, 499
+  offset: 0, 0
+  index: -1
+wait_Hermes01_eyebrows01
+  rotate: true
+  xy: 3410, 225
+  size: 698, 257
+  orig: 698, 257
+  offset: 0, 0
+  index: -1
+wait_Hermes01_eyebrows02
+  rotate: false
+  xy: 3592, 3
+  size: 502, 251
+  orig: 502, 251
+  offset: 0, 0
+  index: -1
+wait_Hermes01_head
+  rotate: false
+  xy: 2901, 469
+  size: 464, 454
+  orig: 464, 454
+  offset: 0, 0
+  index: -1
+wait_Hermes01_shadowBelow
+  rotate: false
+  xy: 1549, 97
+  size: 689, 826
+  orig: 689, 826
+  offset: 0, 0
+  index: -1
+wait_Hermes01_shadowTop
+  rotate: false
+  xy: 2, 100
+  size: 816, 823
+  orig: 816, 823
+  offset: 0, 0
+  index: -1
+wait_Hermes01_weapon
+  rotate: 180
+  xy: 3392, 24
+  size: 194, 191
+  orig: 354, 191
+  offset: 0, 0
+  index: -1

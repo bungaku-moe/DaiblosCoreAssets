@@ -1,0 +1,363 @@
+
+Echo.png
+size: 1980,1008
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: 180
+  xy: 361, 31
+  size: 213, 206
+  orig: 394, 214
+  offset: 173, 0
+  index: -1
+arm_R
+  rotate: false
+  xy: 1183, 57
+  size: 227, 212
+  orig: 395, 217
+  offset: 0, 5
+  index: -1
+ball_L
+  rotate: false
+  xy: 1769, 155
+  size: 207, 275
+  orig: 744, 702
+  offset: 537, 122
+  index: -1
+ball_R
+  rotate: false
+  xy: 2, 43
+  size: 287, 270
+  orig: 618, 702
+  offset: 27, 121
+  index: -1
+belt_LB
+  rotate: false
+  xy: 2, 401
+  size: 112, 182
+  orig: 120, 216
+  offset: 8, 22
+  index: -1
+belt_LF
+  rotate: false
+  xy: 764, 130
+  size: 119, 168
+  orig: 119, 216
+  offset: 0, 43
+  index: -1
+belt_RB
+  rotate: false
+  xy: 307, 505
+  size: 101, 158
+  orig: 105, 218
+  offset: 0, 0
+  index: -1
+belt_RF
+  rotate: false
+  xy: 544, 609
+  size: 117, 150
+  orig: 117, 189
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1285, 514
+  size: 420, 491
+  orig: 595, 860
+  offset: 88, 232
+  index: -1
+cao
+  rotate: 180
+  xy: 443, 296
+  size: 801, 386
+  orig: 1400, 550
+  offset: 477, 0
+  index: -1
+ear_L
+  rotate: true
+  xy: 1347, 87
+  size: 181, 283
+  orig: 181, 283
+  offset: 0, 0
+  index: -1
+ear_R
+  rotate: 270
+  xy: 1545, 4
+  size: 195, 274
+  orig: 195, 274
+  offset: 0, 0
+  index: -1
+grassland
+  rotate: false
+  xy: 2, 405
+  size: 1394, 600
+  orig: 1400, 611
+  offset: 6, 11
+  index: -1
+hair_B
+  rotate: 270
+  xy: 963, 54
+  size: 240, 219
+  orig: 393, 646
+  offset: 82, 427
+  index: -1
+hair_F
+  rotate: false
+  xy: 220, 367
+  size: 69, 129
+  orig: 69, 129
+  offset: 0, 0
+  index: -1
+hair_FL_01
+  rotate: false
+  xy: 273, 16
+  size: 76, 150
+  orig: 76, 150
+  offset: 0, 0
+  index: -1
+hair_FL_02
+  rotate: true
+  xy: 25, 973
+  size: 31, 160
+  orig: 31, 160
+  offset: 0, 0
+  index: -1
+hair_FR
+  rotate: false
+  xy: 1174, 677
+  size: 87, 142
+  orig: 87, 142
+  offset: 0, 0
+  index: -1
+hair_FR_02
+  rotate: false
+  xy: 865, 129
+  size: 32, 134
+  orig: 32, 137
+  offset: 0, 3
+  index: -1
+head
+  rotate: false
+  xy: 1128, 820
+  size: 146, 185
+  orig: 393, 643
+  offset: 128, 434
+  index: -1
+leg_L
+  rotate: 180
+  xy: 1611, 270
+  size: 218, 580
+  orig: 218, 580
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: 180
+  xy: 1779, 431
+  size: 184, 574
+  orig: 195, 590
+  offset: 11, 0
+  index: -1
+light
+  rotate: false
+  xy: 1245, 270
+  size: 365, 242
+  orig: 365, 242
+  offset: 0, 0
+  index: -1
+light_ball_L
+  rotate: false
+  xy: 25, 918
+  size: 48, 54
+  orig: 155, 138
+  offset: 107, 22
+  index: -1
+light_ball_R
+  rotate: false
+  xy: 84, 574
+  size: 50, 52
+  orig: 126, 138
+  offset: 10, 24
+  index: -1
+light_body
+  rotate: false
+  xy: 2, 300
+  size: 84, 102
+  orig: 84, 162
+  offset: 0, 44
+  index: -1
+light_erduo1
+  rotate: false
+  xy: 2, 271
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: -1
+light_erduo2
+  rotate: false
+  xy: 2, 631
+  size: 36, 56
+  orig: 36, 56
+  offset: 0, 0
+  index: -1
+light_gebo_L
+  rotate: false
+  xy: 482, 681
+  size: 49, 50
+  orig: 51, 50
+  offset: 2, 0
+  index: -1
+light_gebo_R
+  rotate: false
+  xy: 492, 365
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+light_grassland_B_1
+  rotate: false
+  xy: 410, 494
+  size: 24, 157
+  orig: 24, 157
+  offset: 0, 0
+  index: -1
+light_grassland_B_10
+  rotate: false
+  xy: 685, 611
+  size: 14, 83
+  orig: 14, 83
+  offset: 0, 0
+  index: -1
+light_grassland_B_11
+  rotate: false
+  xy: 269, 520
+  size: 15, 40
+  orig: 15, 40
+  offset: 0, 0
+  index: -1
+light_grassland_B_12
+  rotate: false
+  xy: 437, 569
+  size: 5, 79
+  orig: 5, 79
+  offset: 0, 0
+  index: -1
+light_grassland_B_2
+  rotate: false
+  xy: 116, 392
+  size: 20, 99
+  orig: 20, 99
+  offset: 0, 0
+  index: -1
+light_grassland_B_3
+  rotate: false
+  xy: 136, 579
+  size: 13, 64
+  orig: 13, 64
+  offset: 0, 0
+  index: -1
+light_grassland_B_4
+  rotate: false
+  xy: 559, 9
+  size: 26, 127
+  orig: 26, 127
+  offset: 0, 0
+  index: -1
+light_grassland_B_5
+  rotate: false
+  xy: 662, 637
+  size: 20, 83
+  orig: 20, 83
+  offset: 0, 0
+  index: -1
+light_grassland_B_6
+  rotate: false
+  xy: 2, 515
+  size: 20, 75
+  orig: 20, 75
+  offset: 0, 0
+  index: -1
+light_grassland_B_7
+  rotate: false
+  xy: 1269, 668
+  size: 35, 201
+  orig: 35, 201
+  offset: 0, 0
+  index: -1
+light_grassland_B_8
+  rotate: false
+  xy: 116, 493
+  size: 20, 79
+  orig: 20, 79
+  offset: 0, 0
+  index: -1
+light_grassland_B_9
+  rotate: false
+  xy: 2, 830
+  size: 21, 175
+  orig: 21, 175
+  offset: 0, 0
+  index: -1
+light_leg_L
+  rotate: true
+  xy: 662, 561
+  size: 51, 123
+  orig: 51, 123
+  offset: 0, 0
+  index: -1
+light_leg_R
+  rotate: false
+  xy: 2, 16
+  size: 42, 122
+  orig: 42, 122
+  offset: 0, 0
+  index: -1
+light_tou
+  rotate: false
+  xy: 2, 690
+  size: 58, 52
+  orig: 78, 133
+  offset: 11, 81
+  index: -1
+light_ydaizi1
+  rotate: false
+  xy: 177, 956
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+light_ydaizi2
+  rotate: false
+  xy: 241, 499
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+light_zdaizi1
+  rotate: false
+  xy: 193, 374
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+light_zdaizi2
+  rotate: false
+  xy: 524, 670
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+star
+  rotate: 270
+  xy: 96, 215
+  size: 360, 397
+  orig: 1000, 556
+  offset: 0, 90
+  index: -1
+star2
+  rotate: true
+  xy: 490, 44
+  size: 323, 482
+  orig: 1000, 558
+  offset: 640, 76
+  index: -1

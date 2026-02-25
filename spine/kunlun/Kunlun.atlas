@@ -1,0 +1,314 @@
+
+Kunlun.png
+size: 2048,1868
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm L
+  rotate: false
+  xy: 297, 1708
+  size: 123, 156
+  orig: 127, 156
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1593, 1783
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+breast L
+  rotate: false
+  xy: 542, 1801
+  size: 57, 63
+  orig: 57, 63
+  offset: 0, 0
+  index: -1
+breast R
+  rotate: false
+  xy: 228, 1792
+  size: 57, 72
+  orig: 57, 72
+  offset: 0, 0
+  index: -1
+collar
+  rotate: false
+  xy: 1859, 1351
+  size: 150, 142
+  orig: 150, 178
+  offset: 0, 0
+  index: -1
+collar armourL
+  rotate: false
+  xy: 1094, 1752
+  size: 43, 111
+  orig: 43, 111
+  offset: 0, 0
+  index: -1
+collar armourM
+  rotate: false
+  xy: 1038, 1807
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+effect shield L1(jiandan)
+  rotate: false
+  xy: 1364, 1846
+  size: 145, 18
+  orig: 145, 18
+  offset: 0, 0
+  index: -1
+effect shield L2(jiandan)
+  rotate: false
+  xy: 601, 1848
+  size: 105, 16
+  orig: 105, 16
+  offset: 0, 0
+  index: -1
+effect shield L3(jiandan)
+  rotate: false
+  xy: 601, 1830
+  size: 66, 16
+  orig: 66, 16
+  offset: 0, 0
+  index: -1
+effect shield L4(jiandan)
+  rotate: false
+  xy: 195, 1853
+  size: 32, 11
+  orig: 32, 11
+  offset: 0, 0
+  index: -1
+effect shield R1(jiandan)
+  rotate: false
+  xy: 937, 1381
+  size: 218, 10
+  orig: 218, 10
+  offset: 0, 0
+  index: -1
+effect shield R2(jiandan)
+  rotate: false
+  xy: 940, 1393
+  size: 238, 15
+  orig: 238, 15
+  offset: 0, 0
+  index: -1
+hand R
+  rotate: false
+  xy: 1914, 1748
+  size: 131, 116
+  orig: 131, 116
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 406, 1755
+  size: 134, 109
+  orig: 134, 109
+  offset: 0, 0
+  index: -1
+horn
+  rotate: false
+  xy: 1007, 1418
+  size: 154, 56
+  orig: 154, 56
+  offset: 0, 0
+  index: -1
+leg L
+  rotate: false
+  xy: 486, 1178
+  size: 209, 409
+  orig: 209, 409
+  offset: 0, 0
+  index: -1
+leg R1
+  rotate: false
+  xy: 1899, 1436
+  size: 147, 121
+  orig: 147, 121
+  offset: 0, 0
+  index: -1
+leg R1 bu
+  rotate: false
+  xy: 963, 1810
+  size: 81, 54
+  orig: 81, 54
+  offset: 0, 0
+  index: -1
+leg R2
+  rotate: false
+  xy: 1788, 1540
+  size: 205, 324
+  orig: 205, 324
+  offset: 0, 0
+  index: -1
+leg R2 bu
+  rotate: false
+  xy: 1486, 1722
+  size: 106, 142
+  orig: 106, 142
+  offset: 0, 0
+  index: -1
+light 2
+  rotate: false
+  xy: 1746, 1243
+  size: 279, 15
+  orig: 279, 15
+  offset: 0, 0
+  index: -1
+light1 jiandan 1
+  rotate: false
+  xy: 2, 45
+  size: 638, 15
+  orig: 638, 15
+  offset: 0, 0
+  index: -1
+light1 jiandan 2
+  rotate: false
+  xy: 1755, 1260
+  size: 227, 53
+  orig: 227, 53
+  offset: 0, 0
+  index: -1
+light1 jiandan 3
+  rotate: false
+  xy: 803, 1595
+  size: 141, 65
+  orig: 141, 65
+  offset: 0, 0
+  index: -1
+light1 jiandan 4
+  rotate: false
+  xy: 1954, 1831
+  size: 72, 33
+  orig: 72, 33
+  offset: 0, 0
+  index: -1
+shield 2
+  rotate: false
+  xy: 2, 312
+  size: 445, 456
+  orig: 445, 456
+  offset: 0, 0
+  index: -1
+shield B R
+  rotate: false
+  xy: 1015, 602
+  size: 239, 271
+  orig: 239, 271
+  offset: 0, 0
+  index: -1
+shield L
+  rotate: false
+  xy: 1631, 1315
+  size: 263, 549
+  orig: 263, 549
+  offset: 0, 0
+  index: -1
+shield R
+  rotate: false
+  xy: 2, 62
+  size: 486, 202
+  orig: 486, 202
+  offset: 0, 0
+  index: -1
+shield1
+  rotate: 180
+  xy: 2, 709
+  size: 492, 1155
+  orig: 492, 1155
+  offset: 0, 0
+  index: -1
+tail
+  rotate: 270
+  xy: 752, 3
+  size: 310, 481
+  orig: 310, 481
+  offset: 0, 0
+  index: -1
+wind B M
+  rotate: 180
+  xy: 1321, 35
+  size: 724, 198
+  orig: 724, 198
+  offset: 0, 0
+  index: -1
+wind LB00
+  rotate: false
+  xy: 151, 1655
+  size: 247, 209
+  orig: 247, 209
+  offset: 0, 0
+  index: -1
+wind LB10
+  rotate: false
+  xy: 1126, 968
+  size: 632, 896
+  orig: 632, 896
+  offset: 0, 0
+  index: -1
+wind LB20
+  rotate: 180
+  xy: 931, 1090
+  size: 524, 271
+  orig: 524, 271
+  offset: 0, 0
+  index: -1
+wind LF10
+  rotate: 270
+  xy: 448, 366
+  size: 815, 1134
+  orig: 815, 1134
+  offset: 0, 0
+  index: -1
+wind LF20
+  rotate: false
+  xy: 1274, 1490
+  size: 397, 374
+  orig: 397, 374
+  offset: 0, 0
+  index: -1
+wind LF30
+  rotate: 270
+  xy: 795, 867
+  size: 290, 453
+  orig: 290, 453
+  offset: 0, 0
+  index: -1
+wind RB00
+  rotate: true
+  xy: 850, 95
+  size: 397, 604
+  orig: 397, 644
+  offset: 0, 31
+  index: -1
+wind RB10
+  rotate: 180
+  xy: 378, 930
+  size: 765, 934
+  orig: 765, 934
+  offset: 0, 0
+  index: -1
+wind RB20
+  rotate: false
+  xy: 310, 202
+  size: 691, 492
+  orig: 691, 492
+  offset: 0, 0
+  index: -1
+wind RF10
+  rotate: 270
+  xy: 1012, 244
+  size: 549, 992
+  orig: 549, 992
+  offset: 0, 0
+  index: -1
+wind RF20
+  rotate: 180
+  xy: 1278, 511
+  size: 768, 712
+  orig: 816, 740
+  offset: 0, 28
+  index: -1

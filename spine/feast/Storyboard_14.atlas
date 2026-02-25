@@ -1,0 +1,48 @@
+
+Storyboard_14.png
+size: 1536,2460
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sleep_rabbit03_floor
+  rotate: false
+  xy: 2, 712
+  size: 1402, 872
+  orig: 1402, 872
+  offset: 0, 0
+  index: -1
+sleep_rabbit03_flower
+  rotate: false
+  xy: 1204, 118
+  size: 77, 116
+  orig: 77, 116
+  offset: 0, 0
+  index: -1
+sleep_rabbit03_human
+  rotate: 180
+  xy: 411, 349
+  size: 1062, 680
+  orig: 1062, 791
+  offset: 0, 111
+  index: -1
+sleep_rabbit03_lawn
+  rotate: false
+  xy: 2, 3
+  size: 1200, 385
+  orig: 1200, 385
+  offset: 0, 0
+  index: -1
+sleep_rabbit03_shadowFloor
+  rotate: false
+  xy: 2, 1585
+  size: 1400, 870
+  orig: 1400, 870
+  offset: 0, 0
+  index: -1
+sleep_rabbit03_sink
+  rotate: true
+  xy: 1406, 1030
+  size: 1098, 128
+  orig: 1100, 130
+  offset: 1, 1
+  index: -1
